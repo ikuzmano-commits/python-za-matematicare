@@ -1,0 +1,20 @@
+[15, 93, 32, 18, 40, 45, 36, 31, 3, 17]
+ Aritmeticka sredina je:33.0
+[64, 41, 45, 89, 46, 60, 12, 19, 98, 82]
+ Aritmeticka sredina je:55.6
+[23, 65, 92, 60, 51, 87, 54, 63, 9, 97]
+ Aritmeticka sredina je:60.1
+[97, 13, 6, 50, 72, 58, 47, 2, 30, 44]
+ Aritmeticka sredina je:41.9
+[50, 69, 83, 77, 67, 7, 47, 45, 37, 75]
+ Aritmeticka sredina je:55.7
+[92, 20, 90, 10, 77, 43, 84, 50, 84, 10]
+ Aritmeticka sredina je:56.0
+[56, 62, 84, 64, 4, 89, 72, 93, 52, 77]
+ Aritmeticka sredina je:65.3
+[38, 97, 66, 68, 45, 2, 27, 8, 5, 76]
+ Aritmeticka sredina je:43.2
+[85, 34, 32, 3, 67, 6, 95, 41, 22, 30]
+ Aritmeticka sredina je:41.5
+[39, 42, 8, 66, 30, 67, 84, 61, 68, 48]
+ Aritmeticka sredina je:51.3

@@ -1,0 +1,3 @@
+[10, 6, 10, 12, 10]
+ Najveci od svih slucajno odabranih brojeva je:12
+ Zbroj svih slucajno odabranih brojeva je:48

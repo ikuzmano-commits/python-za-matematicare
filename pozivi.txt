@@ -1,0 +1,12 @@
+Argument je: ['ponedjeljak', 'utorak', 'srijeda', 'cetvrtak', 'petak', 'subota', 'nedjelja']
+Rezultat je: 11 ponedjeljak
+Argument je: ['aa', 'bbb', 'ccccccccc', 'dd', 'eeeeee']
+Rezultat je: 9 ccccccccc
+Argument je: ['ponedjeljak', 'utorak', 'srijeda', 'cetvrtak', 'petak', 'subota', 'nedjelja']
+Rezultat je: 11 ponedjeljak
+Argument je: ['aa', 'bbb', 'ccccccccc', 'dd', 'eeeeee']
+Rezultat je: 9 ccccccccc
+Argument je: ['ponedjeljak', 'utorak', 'srijeda', 'cetvrtak', 'petak', 'subota', 'nedjelja']
+Rezultat je: 11 ponedjeljak
+Argument je: ['aa', 'bbb', 'ccccccccc', 'dd', 'eeeeee']
+Rezultat je: 9 ccccccccc
