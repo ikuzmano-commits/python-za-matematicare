@@ -1,0 +1,10 @@
+bijela
+plava
+crna
+žuta
+ljubičasta
+crvena
+zelena
+roza
+narančasta
+magenta
