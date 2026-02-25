@@ -1,10 +1,10 @@
 jabuka
-kruska
+kruška
 banana
-kivi
-dinja
-dunja
-lubenica
+jagoda
+limun
 malina
-sljiva
-mandarina
+kupina
+višnja
+trešnja
+nektarina
